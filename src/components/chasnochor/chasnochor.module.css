@@ -1,0 +1,29 @@
+.chasnochor {
+  position: absolute;
+}
+
+
+.image {
+  margin-left: 437px;
+  margin-top: 236px;
+  width: 248px;
+  height: 136px;
+}
+
+.btn {
+    cursor: pointer;
+    margin-top: 11px;
+    margin-left: 466px;
+    background: #87B0BA;
+    border: none;
+    width: 200px;
+    height: 45px;
+    color: #ffffff;
+    font-family: Circe;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    border-radius: 25px;
+}

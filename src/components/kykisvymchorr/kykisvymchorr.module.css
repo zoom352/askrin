@@ -1,0 +1,30 @@
+/* .kykisvymchorr {
+    position: absolute;
+} */
+
+.image {
+    position: absolute;
+    margin-left: 794px;
+    margin-top: 295px;
+    width: 313px;
+    height: 186px;
+}
+
+.btn {
+    cursor: pointer;
+    position: absolute;
+    border-radius: 25px;
+    margin-left: 819px;
+    margin-top: 491px;
+    background: #87B0BA;
+    border: none;
+    width: 260px;
+    height: 45px;
+    color: #ffffff;
+    font-family: Circe;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+}

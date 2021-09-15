@@ -1,0 +1,32 @@
+/* .aikyivenchorr {
+  position: absolute;
+} */
+
+
+.image {
+  position: absolute;
+  margin-left: 951px;
+  margin-top: 814px;
+  width: 295px;
+  height: 159px;
+}
+
+.btn {
+    position: absolute;
+    margin-top: 983px;
+    margin-left: 966px;
+    background: #87B0BA;
+    border: none;
+    width: 260px;
+    height: 45px;
+    color: #ffffff;
+    font-family: Circe;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    border-radius: 25px;
+    cursor: pointer; 
+}
+

@@ -1,0 +1,31 @@
+/* .fersmana {
+  position: absolute;
+} */
+
+
+.image {
+  position: absolute;
+  margin-left: 283px;
+  margin-top: 398px;
+  width: 248px;
+  height: 136px;
+}
+
+.btn {
+    position: absolute;
+    cursor: pointer;
+    margin-top: 550px;
+    margin-left: 305px;
+    background: #87B0BA;
+    border: none;
+    width: 200px;
+    height: 45px;
+    color: #ffffff;
+    font-family: Circe;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    border-radius: 25px;
+}
