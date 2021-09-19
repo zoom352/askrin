@@ -10,7 +10,7 @@ const Fersmana = () => {
         <img className={s.image} src={fersmana} alt="fersmana" />
         <div>
           <NavLink to="fersmana">
-            <button className={s.btn}>ферсмана</button>
+            <button className={s.btn}>кавказ</button>
           </NavLink>
         </div>
       </div>

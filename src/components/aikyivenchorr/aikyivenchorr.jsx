@@ -10,7 +10,7 @@ const Aikyivenchorr = () => {
       <div>
          <NavLink to="/aikyivenchorr">
         <button className={s.btn}>
-          айкуайвенчорр
+          анды
         </button>
         </NavLink>
       </div>

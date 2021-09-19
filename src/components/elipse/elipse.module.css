@@ -1,0 +1,111 @@
+.elipseone {
+    cursor: pointer;
+    margin-top: 976px;
+    margin-left: 600px;
+}
+
+
+.elipsetwo {
+    cursor: pointer;
+    margin-left: 24px;
+}
+
+.elipsefree {
+    cursor: pointer;
+    margin-left: 24px;
+}
+
+.elipsefo {
+    cursor: pointer;
+    margin-left: 20px;
+    margin-bottom: -20px;
+}
+
+
+.openscreen {
+    position: absolute;
+    cursor: pointer;
+    background-color: #2170A1;
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    margin-left: 1850px;
+    top: 946px;
+
+}
+
+
+.hidescreen {
+    cursor: pointer;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    left: 1098px;
+    top: 946px;
+    background-color: #2170A1;
+    border-radius: 40px;
+}
+
+.vector3 {
+    /* height: 10.179876327514648px;
+    width: 10.179876327514648px; */
+    margin-left: 20px;
+    margin-top: 18px;
+}
+
+.vector1 {
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+.vector4 {
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.vector2 {
+    margin-left: 3px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+
+.vector5 {
+    margin-left: 39px;
+    margin-top: 15px;
+}
+
+.vector6 {
+    margin-left: -35px;
+    margin-top: 15px;
+}
+
+.vector7 {
+    margin-top: -40px;
+    margin-bottom: -21px;
+    margin-left: -15px;
+}
+
+.vector8 {
+    margin-top: -0px;
+    margin-bottom: -21px;
+    margin-left: 5px;
+}
+
+
+
+.arrow {
+    position: absolute;
+    cursor: pointer;
+    border-radius: 50px;
+    background-color:#EE8460;
+    height: 70px;
+    width: 70px;
+    margin-left: 50px;
+    margin-top: 950px;
+}
+
+.podarrow {
+    margin-top: 20px;
+    margin-left: 17px;
+}

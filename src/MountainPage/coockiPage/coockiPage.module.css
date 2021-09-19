@@ -1,0 +1,327 @@
+.main {
+    position: absolute;
+ }
+ 
+ 
+ .image {
+     width: 2072px;
+     height: 1083px;
+ }
+
+ .content {
+     margin-left: 1274px;
+     position: absolute;
+     width: 800px;
+     height: 1083px;
+     background-color:#2170A1;
+ }
+
+ .wraph{
+     position: absolute;
+     margin-top: 134px;
+     margin-left: 100px;
+     font-family: Circe;
+     font-size: 64px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 94px;
+     letter-spacing: 0.015em;
+     text-align: left;
+     color:#FFFFFF;
+ }
+
+ .text {
+     margin-top: 253px;
+     width: 632px;
+     height: 611px;
+     margin-left: 100px;
+     color:#FFFFFF;
+     font-family: Circe;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 24px;
+     letter-spacing: 0em;
+     text-align: justify;
+ }
+
+ .traingleHhiest {
+    cursor: pointer;
+    margin-left: 120px;
+    height: 40px;
+    width: 41.6665153503418px;
+    left: 1226px;
+    top: 959px;
+    border-radius: 0px;    
+ }
+
+
+ .traingle {
+    cursor: pointer;
+    margin-left: -23px;
+    height: 30.857141494750977px;
+    width: 32.142738342285156px;
+    left: 1243.85693359375px;
+    top: 965.8571319580078px;
+    border-radius: 0px;    
+ }
+
+ .traingleEmptyHhiest {
+    cursor: pointer;
+     margin-left: 31px;
+     height: 40px;
+     width: 41.6665153503418px;
+     border-radius: 0px;
+ }
+
+ .traingleEmpty {
+    cursor: pointer;
+    height: 30.857141494750977px;
+    width: 32.142738342285156px;
+    margin-left: -23px;
+ }
+
+ .traingleEmptyHhiest1 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty1 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest2 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty2 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest3 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty3 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest4 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty4 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest5 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty5 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest6 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty6 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.hidescreen {
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    left: 1098px;
+    top: 946px;
+    border-radius: 0px;
+    background-color: #2170A1;
+    border-radius: 40px;
+}
+
+.vector3 {
+    /* height: 10.179876327514648px;
+    width: 10.179876327514648px; */
+    margin-left: 19px;
+    margin-top: 18px;
+}
+
+.vector1 {
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+.vector4 {
+    margin-left: 19px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.vector2 {
+    margin-left: 3px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+
+.elipse {
+    position: absolute;
+}
+
+
+.traingle {
+    cursor: pointer;
+    margin-left: -23px;
+    height: 30.857141494750977px;
+    width: 32.142738342285156px;
+    left: 1243.85693359375px;
+    top: 965.8571319580078px;
+    border-radius: 0px;    
+ }
+
+ .traingleEmptyHhiest {
+    cursor: pointer;
+     margin-left: 31px;
+     height: 40px;
+     width: 41.6665153503418px;
+     border-radius: 0px;
+ }
+
+ .traingleEmpty {
+    cursor: pointer;
+    height: 30.857141494750977px;
+    width: 32.142738342285156px;
+    margin-left: -23px;
+ }
+
+ .traingleEmptyHhiest1 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty1 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest2 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty2 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest3 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty3 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest4 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty4 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest5 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty5 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest6 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty6 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}

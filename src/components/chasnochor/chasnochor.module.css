@@ -11,6 +11,7 @@
 }
 
 .btn {
+    position: absolute;
     cursor: pointer;
     margin-top: 11px;
     margin-left: 466px;

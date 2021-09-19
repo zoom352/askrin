@@ -15,6 +15,9 @@ import MountainvudyavrchorrPage from './MountainPage/Mountainvudyavrchorr/Mounta
 import TahtaPage from './MountainPage/taxtaPage/taxtapage';
 import UdicvyPage from './MountainPage/UdicvyPage/UdicvyPage';
 import FersmanaPage from './MountainPage/fersmanaPage/fersmanaPage';
+import CoockiPageMount from './MountainPage/coockiPage/coockiPage';
+import ChasnochorPageMount from './MountainPage/chasnochorPage/chasnochorPage';
+import LyavochorrPageMount from './MountainPage/LyavochorrPage/LyavochorrPage';
 
 
 
@@ -47,6 +50,15 @@ function App() {
 
       <Route path='/fersmana'
         render={() => <FersmanaPage/>} />
+
+      <Route path='/Coocki'
+        render={() => <CoockiPageMount/>} />
+
+      <Route path='/Lyavochor'
+        render={() => <LyavochorrPageMount/>} />
+
+        <Route path='/Chasnochor'
+        render={() => <ChasnochorPageMount/>} />
     
     </div>
   );

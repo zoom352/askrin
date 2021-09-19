@@ -1,0 +1,15 @@
+.main {
+    position: absolute;
+ }
+ 
+ 
+ .image {
+     width: 2172px;
+     height: 1083px;
+     left: -20px;
+ }
+
+ .elipse {
+    position: absolute;
+}
+

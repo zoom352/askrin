@@ -1,0 +1,141 @@
+.traingleHhiest {
+    cursor: pointer;
+    margin-left: 120px;
+    height: 40px;
+    width: 41.6665153503418px;
+    left: 1226px;
+    top: 959px;
+    border-radius: 0px;    
+ }
+
+
+
+
+ /* img.active a { background:#fff; 
+    color:#2175bc;} */
+
+
+
+
+.block a.activeLink {
+    background-color: green;
+    /* background: no-repeat 102% url('../../img/traingle.png')!important; */
+    /* background-color: chartreuse; */
+ }
+ /* no-repeat right/90% */
+
+ .traingle {
+    cursor: pointer;
+    margin-left: -23px;
+    height: 30.857141494750977px;
+    width: 32.142738342285156px;
+    left: 1243.85693359375px;
+    top: 965.8571319580078px;
+    border-radius: 0px;    
+ }
+
+ .traingleEmptyHhiest {
+    cursor: pointer;
+     margin-left: 31px;
+     height: 40px;
+     width: 41.6665153503418px;
+     border-radius: 0px;
+ }
+
+ .traingleEmpty {
+    cursor: pointer;
+    height: 30.857141494750977px;
+    width: 32.142738342285156px;
+    margin-left: -23px;
+ }
+
+ .traingleEmptyHhiest1 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty1 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest2 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty2 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest3 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty3 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest4 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty4 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest5 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty5 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+
+.traingleEmptyHhiest6 {
+    cursor: pointer;
+    margin-left: 31px;
+    height: 40px;
+    width: 41.6665153503418px;
+    border-radius: 0px;
+}
+
+.traingleEmpty6 {
+    cursor: pointer;
+   height: 30.857141494750977px;
+   width: 32.142738342285156px;
+   margin-left: -23px;
+}
+

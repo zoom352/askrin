@@ -9,7 +9,7 @@ const Tahtarvymchorr = () => {
       <img className={s.image} src={tahtarvymchorr} alt="tahtarvymchorr" />
       <div>
         <NavLink to="Tahtarvymchorr">
-          <button className={s.btn}>тахтарвумчорр</button>
+          <button className={s.btn}>джомолунгма</button>
         </NavLink>
       </div>
     </div>

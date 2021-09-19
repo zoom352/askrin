@@ -1,30 +1,31 @@
-import udichvPage from './../../img/udichvPage.png'
 import s from '../coockiPage/coockiPage.module.css'
+import lyavoPage from '../../img/lyavoPage.png'
 import Elipse from '../../components/elipse/elipse';
 import traingle from '../../img/traingle.png'
 import traingleEmpty from '../../img/traingleEmpty.png'
 import { NavLink } from 'react-router-dom';
-import chasnaPage from '../../img/chasnaPage.png'
 import { useState } from 'react/cjs/react.development';
+import fersmPage from './../../img/fersmPage.png'
 
-const UdicvyPage = () => {
+
+const LyavochorrPageMount = () => {
 
     const [openscreen, setOpenscreen] = useState(true)
     const [elipse, setElipse] = useState(true)
 
     return <div className={s.main}>
         <div className={s.elipse}>
-            <Elipse
-              openscreen={openscreen}
-              setClosescreen={() => setOpenscreen(true)} 
-              setOpenscreen={() => setOpenscreen(false)}
-              setCloseElipse={() => setElipse(false)}
-              setOpenElipse={() => setElipse(true)}
-              elipse={elipse}/>
+        <Elipse 
+                openscreen={openscreen}
+                setClosescreen={() => setOpenscreen(true)} 
+                setOpenscreen={() => setOpenscreen(false)}
+                setCloseElipse={() => setElipse(false)}
+                setOpenElipse={() => setElipse(true)}
+                elipse={elipse}/>
         </div>
         
         {openscreen ? <div className={s.content}>
-            <h1 className={s.wraph}>юдычвумчор</h1>
+            <h1 className={s.wraph}>Лявочор</h1>
         <p className={s.text}>Откуда пошло название «Хибины»? Считается, что от слова «хибень», бытовавшего среди народов Кольской земли и означавшего «горная возвышенность, плоскогорье». В свою очередь, оно было заимствовано из финского языка, где означает «небольшой холм». 
 Саамы, коренные жители Кольского севера, Хибинами считали Умбозерский массив, который называли Умптек — «Закрытые горы», и Ловозерский — Луяврурт.
  У кольских саамов основных языковых диалектов было пять, которые так отличались между собой, что люди с трудом понимали друг друга. Поэтому значения некоторых рассмотренных нами топонимов могут иметь иное толкование в других источниках. Однако большинство названий на карте Хибин относятся к кильдинскому диалекту саамского языка — самому распространённому в этой части полуострова. К тому же народ Лапландии долгое время не имел письменности, все слова передавались «из уст в уста», поэтому постепенно искажались, как в игре «испорченный телефон». 
@@ -33,46 +34,34 @@ const UdicvyPage = () => {
 </p>
 
 <NavLink to='/Lyavochor'> 
-{/* <img className={s.traingleHhiest} 
-    src={traingle} alt='traingle'/>   */}
-     <img  className={s.traingleHhiest} 
-    src={traingleEmpty} alt='traingleEmpty'/>
-     {/* <img className={s.traingle}
-    src={traingle} alt='traingle'/>  */}
-    <img className={s.traingle}
-    src={traingleEmpty} alt='traingleEmpty'/>
-</NavLink>
+      <img className={s.traingleHhiest} 
+    src={traingle} alt='traingle'/>  
+      <img className={s.traingle}
+    src={traingle} alt='traingle'/> 
+    </NavLink>
 
-
-<NavLink to='/Chasnochor'>
- <img className={s.traingleEmptyHhiest} 
+     
+    <NavLink to='/Chasnochor'>
+    <img className={s.traingleEmptyHhiest} 
     src={traingleEmpty} alt='traingleEmpty'/> 
-{/* <img className={s.traingleEmptyHhiest} 
-    src={traingle} alt='traingleEmpty'/> */}
-<img className={s.traingleEmpty} 
+    <img className={s.traingleEmpty} 
     src={traingleEmpty} alt='traingleEmpty'/>
-{/* <img className={s.traingleEmpty} 
-    src={traingle} alt='traingleEmpty'/> */}
-</NavLink>
+    </NavLink>
 
 
 <NavLink to='/fersmana'>
 <img className={s.traingleEmptyHhiest1} 
     src={traingleEmpty} alt='traingleEmpty'/> 
-{/* <img className={s.traingleEmptyHhiest1} 
-    src={traingle} alt='traingle'/> */}
 <img className={s.traingleEmpty1} 
     src={traingleEmpty} alt='traingleEmpty'/>
-{/* <img className={s.traingleEmpty1} 
-    src={traingle} alt='traingle'/> */}
 </NavLink>
 
 
 <NavLink to='Udichvymchorr'>
-    <img className={s.traingleEmptyHhiest2} 
-    src={traingle} alt='traingle'/>
-    <img className={s.traingleEmpty2} 
-    src={traingle} alt='traingle'/>
+<img className={s.traingleEmptyHhiest2} 
+    src={traingleEmpty} alt='traingleEmpty'/>
+<img className={s.traingleEmpty2} 
+    src={traingleEmpty} alt='traingleEmpty'/>
 </NavLink>
 
 
@@ -100,18 +89,21 @@ const UdicvyPage = () => {
 </NavLink>
 
 
+
 <NavLink to='/Aikyivenchorr'>
 <img className={s.traingleEmptyHhiest6} 
     src={traingleEmpty} alt='traingleEmpty'/>
-<img className={s.traingleEmpty6} 
+    <img className={s.traingleEmpty6} 
     src={traingleEmpty} alt='traingleEmpty'/> 
 </NavLink>
 
 </div>: null}
-        { elipse ? <img className={s.image} src={udichvPage}
-            alt='udichvPage'/> : <img className={s.image} src={chasnaPage}/>}
+        {elipse ? <img className={s.image} src={lyavoPage} 
+            alt='lyavoPage'/>: <img className={s.image} src={fersmPage} alt='fersmPage'/>}
+        
     </div>
+
 }
 
 
-export default UdicvyPage;
+export default LyavochorrPageMount;
